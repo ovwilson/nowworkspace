@@ -1,0 +1,3108 @@
+{
+  "jellySchema": {
+    "g:action_filter": {
+      "attrs": {
+        "action": null,
+        "body": null,
+        "conditional": null,
+        "context": null,
+        "current": null,
+        "parent": null,
+        "ref": null,
+        "trim": null,
+        "variable": null
+      }
+    },
+    "g:activity": {
+      "attrs": {
+        "fields": null,
+        "records": null,
+        "sys_id": null,
+        "table": null,
+        "type": null,
+        "var": null
+      }
+    },
+    "g:app_resources": {
+      "attrs": {
+        "body": null,
+        "context": null,
+        "file": null,
+        "output": null,
+        "parent": null,
+        "ref": null,
+        "trim": null,
+        "variable": null
+      }
+    },
+    "g:attachment_list": {
+      "attrs": {
+        "body": null,
+        "context": null,
+        "file": null,
+        "parent": null,
+        "sys_id": null,
+        "table": null,
+        "trim": null,
+        "var": null
+      }
+    },
+    "g:breakpoint": {
+      "attrs": {
+        "body": null,
+        "context": null,
+        "dump": null,
+        "id": null,
+        "message": null,
+        "parent": null,
+        "ref": null,
+        "trim": null,
+        "var": null,
+        "variable": null
+      }
+    },
+    "g:calendar": {
+      "attrs": {
+        "body": null,
+        "context": null,
+        "day": null,
+        "month": null,
+        "parent": null,
+        "ref": null,
+        "trim": null,
+        "variable": null,
+        "variables": null,
+        "view": null,
+        "year": null
+      }
+    },
+    "g:calendar_event_id": {
+      "attrs": {
+        "body": null,
+        "context": null,
+        "event": null,
+        "parent": null,
+        "ref": null,
+        "trim": null,
+        "variable": null
+      }
+    },
+    "g:call": {
+      "attrs": {
+        "arguments": null,
+        "attribute": null,
+        "body": null,
+        "context": null,
+        "function": null,
+        "jVAR": null,
+        "parent": null,
+        "ref": null,
+        "trim": null,
+        "variable": null
+      }
+    },
+    "g:child_tables": {
+      "attrs": {
+        "body": null,
+        "choiceList": null,
+        "choiceType": null,
+        "choiceValue": null,
+        "context": null,
+        "currentTableName": null,
+        "fieldName": null,
+        "includeDefault": null,
+        "none": null,
+        "noSystemTables": null,
+        "parent": null,
+        "readonly": null,
+        "ref": null,
+        "root": null,
+        "selected": null,
+        "shortList": null,
+        "skipRoot": null,
+        "skipTables": null,
+        "trim": null,
+        "variable": null
+      }
+    },
+    "g:choice_list": {
+      "attrs": {
+        "body": null,
+        "column": null,
+        "context": null,
+        "maxRefDropdown": null,
+        "parent": null,
+        "ref": null,
+        "reference": null,
+        "table": null,
+        "trim": null,
+        "value": null,
+        "variable": null
+      }
+    },
+    "g:client_script": {
+      "attrs": {
+        "body": null,
+        "catalogItem": null,
+        "context": null,
+        "file": null,
+        "parent": null,
+        "ref": null,
+        "suppressSubmitEvent": null,
+        "tableName": null,
+        "trim": null,
+        "type": null,
+        "uIType": null,
+        "variable": null,
+        "viewName": null
+      }
+    },
+    "g:columnoptions": {
+      "attrs": {
+        "body": null,
+        "choiceList": null,
+        "choiceValue": null,
+        "context": null,
+        "fields": null,
+        "none": null,
+        "parent": null,
+        "readonly": null,
+        "ref": null,
+        "selected": null,
+        "trim": null,
+        "variable": null
+      }
+    },
+    "g:comment": {
+      "attrs": {
+        "body": null,
+        "context": null,
+        "parent": null,
+        "ref": null,
+        "text": null,
+        "trim": null,
+        "variable": null
+      }
+    },
+    "g:copy_to_p2": {
+      "attrs": {
+        "body": null,
+        "context": null,
+        "parent": null,
+        "ref": null,
+        "trim": null,
+        "var": null,
+        "variable": null
+      }
+    },
+    "g:currency_format": {
+      "attrs": {
+        "body": null,
+        "context": null,
+        "double": null,
+        "parent": null,
+        "ref": null,
+        "trim": null,
+        "value": null,
+        "variable": null
+      }
+    },
+    "g:dashboard": {
+      "attrs": {
+        "board": null,
+        "body": null,
+        "context": null,
+        "parent": null,
+        "ref": null,
+        "trim": null,
+        "variable": null
+      }
+    },
+    "g:decorations": {
+      "attrs": {
+        "body": null,
+        "context": null,
+        "parent": null,
+        "ref": null,
+        "trim": null,
+        "var": null,
+        "variable": null
+      }
+    },
+    "g:deferred_script": {
+      "attrs": {
+        "body": null,
+        "context": null,
+        "enable": null,
+        "output": null,
+        "parent": null,
+        "ref": null,
+        "trim": null,
+        "variable": null
+      }
+    },
+    "g:deferred_style": {
+      "attrs": {
+        "body": null,
+        "context": null,
+        "enable": null,
+        "output": null,
+        "parent": null,
+        "ref": null,
+        "trim": null,
+        "variable": null
+      }
+    },
+    "g:doctype": {
+      "attrs": {
+        "body": null,
+        "context": null,
+        "name": null,
+        "parent": null,
+        "publicId": null,
+        "ref": null,
+        "systemId": null,
+        "trim": null,
+        "variable": null
+      }
+    },
+    "g:element": {
+      "attrs": {
+        "body": null,
+        "context": null,
+        "hide_label": null,
+        "parent": null,
+        "ref": null,
+        "trim": null,
+        "variable": null
+      }
+    },
+    "g:element_list": {
+      "attrs": {
+        "body": null,
+        "context": null,
+        "parent": null,
+        "ref": null,
+        "section_id": null,
+        "table": null,
+        "trim": null,
+        "variable": null
+      }
+    },
+    "g:emitParms": {
+      "attrs": {
+        "body": null,
+        "context": null,
+        "parent": null,
+        "ref": null,
+        "suppress": null,
+        "trim": null,
+        "variable": null
+      }
+    },
+    "g:evaluate": {
+      "attrs": {
+        "body": null,
+        "context": null,
+        "copyToPhase2": null,
+        "copyToRhino": null,
+        "expression": null,
+        "expressionScope": null,
+        "jelly": null,
+        "locals": null,
+        "object": null,
+        "parent": null,
+        "ref": null,
+        "trim": null,
+        "var": null,
+        "variable": null
+      }
+    },
+    "g:file_browse": {
+      "attrs": {
+        "body": null,
+        "context": null,
+        "directory": null,
+        "exts": null,
+        "ignore": null,
+        "noext": null,
+        "parent": null,
+        "ref": null,
+        "trim": null,
+        "variable": null
+      }
+    },
+    "g:fileinfo": {
+      "attrs": {
+        "body": null,
+        "context": null,
+        "filename": null,
+        "linenumber": null,
+        "parent": null,
+        "ref": null,
+        "trim": null,
+        "variable": null
+      }
+    },
+    "g:filter_groups": {
+      "attrs": {
+        "body": null,
+        "choiceList": null,
+        "choiceValue": null,
+        "context": null,
+        "none": null,
+        "parent": null,
+        "readonly": null,
+        "ref": null,
+        "selected": null,
+        "trim": null,
+        "variable": null
+      }
+    },
+    "g:for_each_record": {
+      "attrs": {
+        "body": null,
+        "context": null,
+        "file": null,
+        "file_variable": null,
+        "max": null,
+        "parent": null,
+        "trim": null,
+        "var": null
+      }
+    },
+    "g:form": {
+      "attrs": {
+        "body": null,
+        "context": null,
+        "mode": null,
+        "parent": null,
+        "ref": null,
+        "template": null,
+        "trim": null,
+        "variable": null
+      }
+    },
+    "g:form_label": {
+      "attrs": {
+        "body": null,
+        "class": null,
+        "context": null,
+        "for": null,
+        "onclick": null,
+        "parent": null,
+        "ref": null,
+        "trim": null,
+        "variable": null
+      }
+    },
+    "g:function": {
+      "attrs": {
+        "attribute": null,
+        "body": null,
+        "context": null,
+        "jVAR": null,
+        "parent": null,
+        "ref": null,
+        "trim": null,
+        "variable": null
+      }
+    },
+    "g:gauge": {
+      "attrs": {
+        "body": null,
+        "context": null,
+        "filters": null,
+        "height": null,
+        "id": null,
+        "parent": null,
+        "ref": null,
+        "trim": null,
+        "type": null,
+        "variable": null,
+        "width": null
+      }
+    },
+    "g:get_action_list": {
+      "attrs": {
+        "body": null,
+        "context": null,
+        "dependent": null,
+        "ensure": null,
+        "parent": null,
+        "readonly": null,
+        "record": null,
+        "ref": null,
+        "referenceoverride": null,
+        "trim": null,
+        "type": null,
+        "variable": null
+      }
+    },
+    "g:get_canned_messages": {
+      "attrs": {
+        "body": null,
+        "context": null,
+        "parent": null,
+        "ref": null,
+        "trim": null,
+        "variable": null
+      }
+    },
+    "g:get_collection_data": {
+      "attrs": {
+        "body": null,
+        "context": null,
+        "id": null,
+        "key": null,
+        "listEntries": null,
+        "parent": null,
+        "ref": null,
+        "related_field": null,
+        "related_table": null,
+        "trim": null,
+        "type": null,
+        "variable": null
+      }
+    },
+    "g:get_connectors": {
+      "attrs": {
+        "body": null,
+        "connField": null,
+        "context": null,
+        "listField": null,
+        "parent": null,
+        "ref": null,
+        "trim": null,
+        "variable": null
+      }
+    },
+    "g:get_distribution_list": {
+      "attrs": {
+        "body": null,
+        "context": null,
+        "dependent": null,
+        "ensure": null,
+        "parent": null,
+        "readonly": null,
+        "record": null,
+        "ref": null,
+        "referenceoverride": null,
+        "trim": null,
+        "type": null,
+        "variable": null
+      }
+    },
+    "g:get_filters": {
+      "attrs": {
+        "body": null,
+        "context": null,
+        "parent": null,
+        "ref": null,
+        "tablename": null,
+        "trim": null,
+        "variable": null
+      }
+    },
+    "g:get_groupby_list": {
+      "attrs": {
+        "body": null,
+        "context": null,
+        "parent": null,
+        "ref": null,
+        "related": null,
+        "table": null,
+        "trim": null,
+        "variable": null
+      }
+    },
+    "g:get_list": {
+      "attrs": {
+        "body": null,
+        "context": null,
+        "form": null,
+        "parent": null,
+        "ref": null,
+        "trim": null,
+        "type": null,
+        "variable": null
+      }
+    },
+    "g:get_roles": {
+      "attrs": {
+        "body": null,
+        "context": null,
+        "parent": null,
+        "readonly": null,
+        "record": null,
+        "ref": null,
+        "trim": null,
+        "type": null,
+        "variable": null
+      }
+    },
+    "g:hdrftr_cell_data": {
+      "attrs": {
+        "body": null,
+        "choiceList": null,
+        "choiceValue": null,
+        "context": null,
+        "none": null,
+        "parent": null,
+        "readonly": null,
+        "ref": null,
+        "selected": null,
+        "trim": null,
+        "variable": null
+      }
+    },
+    "g:hdrftr_layout": {
+      "attrs": {
+        "body": null,
+        "choiceList": null,
+        "choiceValue": null,
+        "context": null,
+        "none": null,
+        "parent": null,
+        "readonly": null,
+        "ref": null,
+        "selected": null,
+        "trim": null,
+        "variable": null
+      }
+    },
+    "g:help": {
+      "attrs": {
+        "body": null,
+        "context": null,
+        "parent": null,
+        "ref": null,
+        "trim": null,
+        "variable": null
+      }
+    },
+    "g:highlighter": {
+      "attrs": {
+        "body": null,
+        "context": null,
+        "limit": null,
+        "parent": null,
+        "ref": null,
+        "search": null,
+        "text": null,
+        "trim": null,
+        "var": null,
+        "variable": null
+      }
+    },
+    "g:history": {
+      "attrs": {
+        "body": null,
+        "context": null,
+        "parent": null,
+        "ref": null,
+        "trim": null,
+        "variable": null
+      }
+    },
+    "g:html_page": {
+      "attrs": {
+        "body": null,
+        "context": null,
+        "parent": null,
+        "ref": null,
+        "trim": null,
+        "variable": null
+      }
+    },
+    "g:image_structure": {
+      "attrs": {
+        "body": null,
+        "context": null,
+        "parent": null,
+        "ref": null,
+        "trim": null,
+        "variable": null
+      }
+    },
+    "g:import_vars": {
+      "attrs": {
+        "body": null,
+        "context": null,
+        "parent": null,
+        "ref": null,
+        "trim": null,
+        "variable": null,
+        "vars": null
+      }
+    },
+    "g:index_options": {
+      "attrs": {
+        "body": null,
+        "choiceList": null,
+        "choiceValue": null,
+        "context": null,
+        "none": null,
+        "parent": null,
+        "readonly": null,
+        "ref": null,
+        "selected": null,
+        "tableName": null,
+        "trim": null,
+        "variable": null
+      }
+    },
+    "g:inline": {
+      "attrs": {
+        "attribute": null,
+        "body": null,
+        "context": null,
+        "jVAR": null,
+        "parent": null,
+        "ref": null,
+        "template": null,
+        "trim": null,
+        "variable": null
+      }
+    },
+    "g:insert": {
+      "attrs": {
+        "body": null,
+        "context": null,
+        "parent": null,
+        "ref": null,
+        "template": null,
+        "trim": null,
+        "variable": null
+      }
+    },
+    "g:insert_form": {
+      "attrs": {
+        "body": null,
+        "context": null,
+        "name": null,
+        "parent": null,
+        "ref": null,
+        "sysparm_collection": null,
+        "sysparm_collection_connector": null,
+        "sysparm_collection_hierarchical": null,
+        "sysparm_collection_key": null,
+        "sysparm_collection_label": null,
+        "sysparm_collection_parent": null,
+        "sysparm_collection_related_field": null,
+        "sysparm_collection_related_file": null,
+        "sysparm_collection_relationship": null,
+        "sysparm_collection_type": null,
+        "sysparm_collectionID": null,
+        "trim": null,
+        "variable": null
+      }
+    },
+    "g:internal_type_options": {
+      "attrs": {
+        "body": null,
+        "choiceList": null,
+        "choiceValue": null,
+        "context": null,
+        "includeContainerTypes": null,
+        "none": null,
+        "parent": null,
+        "readonly": null,
+        "ref": null,
+        "selected": null,
+        "trim": null,
+        "variable": null
+      }
+    },
+    "g:item_link": {
+      "attrs": {
+        "body": null,
+        "context": null,
+        "parent": null,
+        "ref": null,
+        "show_link": null,
+        "trim": null,
+        "variable": null
+      }
+    },
+    "g:list_control": {
+      "attrs": {
+        "body": null,
+        "context": null,
+        "parent": null,
+        "ref": null,
+        "trim": null,
+        "variable": null
+      }
+    },
+    "g:list_item_style": {
+      "attrs": {
+        "alt_var": null,
+        "background_var": null,
+        "body": null,
+        "cell_var": null,
+        "context": null,
+        "item": null,
+        "parent": null,
+        "ref": null,
+        "style": null,
+        "trim": null,
+        "variable": null
+      }
+    },
+    "g:list_item_text": {
+      "attrs": {
+        "alt_length": null,
+        "alt_text_var": null,
+        "body": null,
+        "context": null,
+        "item": null,
+        "item_parent": null,
+        "list_chars": null,
+        "parent": null,
+        "ref": null,
+        "target_text_var": null,
+        "trim": null,
+        "variable": null
+      }
+    },
+    "g:menu_lists": {
+      "attrs": {
+        "body": null,
+        "context": null,
+        "device_type": null,
+        "omit_perspectives": null,
+        "parent": null,
+        "ref": null,
+        "trim": null,
+        "variable": null
+      }
+    },
+    "g:messages": {
+      "attrs": {
+        "body": null,
+        "context": null,
+        "emit": null,
+        "parent": null,
+        "ref": null,
+        "scriptTag": null,
+        "trim": null,
+        "variable": null
+      }
+    },
+    "g:my_groups": {
+      "attrs": {
+        "body": null,
+        "choiceList": null,
+        "choiceValue": null,
+        "context": null,
+        "none": null,
+        "parent": null,
+        "readonly": null,
+        "ref": null,
+        "selected": null,
+        "trim": null,
+        "variable": null
+      }
+    },
+    "g:no_escape": {
+      "attrs": {
+        "body": null,
+        "context": null,
+        "parent": null,
+        "ref": null,
+        "trim": null,
+        "variable": null
+      }
+    },
+    "g:noop": {
+      "attrs": {
+        "attribute": null,
+        "body": null,
+        "context": null,
+        "parent": null,
+        "ref": null,
+        "script": null,
+        "trim": null,
+        "variable": null
+      }
+    },
+    "g:options": {
+      "attrs": {
+        "body": null,
+        "choiceList": null,
+        "choiceValue": null,
+        "context": null,
+        "none": null,
+        "parent": null,
+        "readonly": null,
+        "ref": null,
+        "selected": null,
+        "trim": null,
+        "variable": null
+      }
+    },
+    "g:partial_page": {
+      "attrs": {
+        "body": null,
+        "context": null,
+        "name": null,
+        "optimize": null,
+        "parent": null,
+        "ref": null,
+        "style": null,
+        "trim": null,
+        "variable": null
+      }
+    },
+    "g:preference": {
+      "attrs": {
+        "body": null,
+        "context": null,
+        "default": null,
+        "name": null,
+        "parent": null,
+        "ref": null,
+        "trim": null,
+        "var": null,
+        "variable": null
+      }
+    },
+    "g:ref_element": {
+      "attrs": {
+        "body": null,
+        "context": null,
+        "name": null,
+        "parent": null,
+        "query": null,
+        "ref": null,
+        "trim": null,
+        "var": null,
+        "variable": null
+      }
+    },
+    "g:reference_options": {
+      "attrs": {
+        "all": null,
+        "body": null,
+        "choiceList": null,
+        "choiceValue": null,
+        "context": null,
+        "none": null,
+        "parent": null,
+        "readonly": null,
+        "ref": null,
+        "selected": null,
+        "table": null,
+        "trim": null,
+        "variable": null
+      }
+    },
+    "g:reminder_field_name_options": {
+      "attrs": {
+        "body": null,
+        "choiceList": null,
+        "choiceValue": null,
+        "context": null,
+        "none": null,
+        "onlyDates": null,
+        "parent": null,
+        "readonly": null,
+        "ref": null,
+        "selected": null,
+        "tableName": null,
+        "trim": null,
+        "variable": null
+      }
+    },
+    "g:remote_import": {
+      "attrs": {
+        "body": null,
+        "context": null,
+        "parent": null,
+        "trim": null,
+        "url": null
+      }
+    },
+    "g:render_component": {
+      "attrs": {
+        "body": null,
+        "componentName": null,
+        "context": null,
+        "parent": null,
+        "ref": null,
+        "trim": null,
+        "variable": null
+      }
+    },
+    "g:reportmessage": {
+      "attrs": {
+        "body": null,
+        "context": null,
+        "field": null,
+        "parent": null,
+        "ref": null,
+        "trim": null,
+        "variable": null
+      }
+    },
+    "g:requires": {
+      "attrs": {
+        "body": null,
+        "context": null,
+        "includes": null,
+        "inline": null,
+        "name": null,
+        "output": null,
+        "params": null,
+        "parent": null,
+        "position": null,
+        "ref": null,
+        "trim": null,
+        "variable": null
+      }
+    },
+    "g:response_options": {
+      "attrs": {
+        "body": null,
+        "choiceList": null,
+        "choiceValue": null,
+        "context": null,
+        "field": null,
+        "none": null,
+        "parent": null,
+        "readonly": null,
+        "ref": null,
+        "selected": null,
+        "table": null,
+        "trim": null,
+        "variable": null
+      }
+    },
+    "g:scope": {
+      "attrs": {
+        "body": null,
+        "context": null,
+        "parent": null,
+        "ref": null,
+        "scope": null,
+        "scriptname": null,
+        "trim": null,
+        "variable": null
+      }
+    },
+    "g:scripted_options": {
+      "attrs": {
+        "body": null,
+        "choiceList": null,
+        "choiceValue": null,
+        "context": null,
+        "function": null,
+        "none": null,
+        "parent": null,
+        "readonly": null,
+        "ref": null,
+        "script": null,
+        "selected": null,
+        "trim": null,
+        "variable": null
+      }
+    },
+    "g:scripted_table_options": {
+      "attrs": {
+        "body": null,
+        "choiceList": null,
+        "choiceValue": null,
+        "context": null,
+        "fieldScope": null,
+        "none": null,
+        "parent": null,
+        "readonly": null,
+        "ref": null,
+        "script": null,
+        "selected": null,
+        "showTableNames": null,
+        "showTableNamesOnLabel": null,
+        "trim": null,
+        "variable": null
+      }
+    },
+    "g:search_table_options": {
+      "attrs": {
+        "all": null,
+        "body": null,
+        "canRead": null,
+        "choiceList": null,
+        "choiceValue": null,
+        "context": null,
+        "currentTableName": null,
+        "fieldName": null,
+        "includeDefault": null,
+        "isReference": null,
+        "isReport": null,
+        "none": null,
+        "noSystemTables": null,
+        "noViews": null,
+        "parent": null,
+        "readonly": null,
+        "ref": null,
+        "selected": null,
+        "selectedField": null,
+        "selectedOnly": null,
+        "shortList": null,
+        "showTableNames": null,
+        "skipScopeRestrictions": null,
+        "trim": null,
+        "variable": null
+      }
+    },
+    "g:section": {
+      "attrs": {
+        "body": null,
+        "content": null,
+        "context": null,
+        "parent": null,
+        "ref": null,
+        "title": null,
+        "trim": null,
+        "variable": null
+      }
+    },
+    "g:section_list": {
+      "attrs": {
+        "body": null,
+        "context": null,
+        "firstSectionOnly": null,
+        "headerOnly": null,
+        "headerSimple": null,
+        "headerSpacer": null,
+        "modelId": null,
+        "parent": null,
+        "ref": null,
+        "trim": null,
+        "variable": null,
+        "varRef": null
+      }
+    },
+    "g:session_notifications": {
+      "attrs": {
+        "body": null,
+        "context": null,
+        "parent": null,
+        "ref": null,
+        "trim": null,
+        "variable": null
+      }
+    },
+    "g:set_if": {
+      "attrs": {
+        "body": null,
+        "context": null,
+        "false": null,
+        "parent": null,
+        "ref": null,
+        "test": null,
+        "trim": null,
+        "true": null,
+        "var": null,
+        "variable": null
+      }
+    },
+    "g:setjs": {
+      "attrs": {
+        "body": null,
+        "context": null,
+        "expression": null,
+        "parent": null,
+        "ref": null,
+        "trim": null,
+        "value": null,
+        "var": null,
+        "variable": null
+      }
+    },
+    "g:sysevent_name_options": {
+      "attrs": {
+        "body": null,
+        "choiceList": null,
+        "choiceValue": null,
+        "context": null,
+        "none": null,
+        "parent": null,
+        "readonly": null,
+        "ref": null,
+        "selected": null,
+        "trim": null,
+        "variable": null
+      }
+    },
+    "g:system_properties": {
+      "attrs": {
+        "body": null,
+        "context": null,
+        "exclude": null,
+        "include": null,
+        "parent": null,
+        "ref": null,
+        "template": null,
+        "trim": null,
+        "variable": null
+      }
+    },
+    "g:system_properties_categorized": {
+      "attrs": {
+        "body": null,
+        "category": null,
+        "colspan": null,
+        "context": null,
+        "parent": null,
+        "ref": null,
+        "template": null,
+        "trim": null,
+        "variable": null
+      }
+    },
+    "g:table_options": {
+      "attrs": {
+        "all": null,
+        "body": null,
+        "canRead": null,
+        "choiceList": null,
+        "choiceValue": null,
+        "context": null,
+        "currentTableName": null,
+        "fieldName": null,
+        "includeDefault": null,
+        "isReference": null,
+        "isReport": null,
+        "none": null,
+        "noSystemTables": null,
+        "noViews": null,
+        "parent": null,
+        "readonly": null,
+        "ref": null,
+        "selected": null,
+        "selectedField": null,
+        "selectedOnly": null,
+        "shortList": null,
+        "showTableNames": null,
+        "skipScopeRestrictions": null,
+        "trim": null,
+        "variable": null
+      }
+    },
+    "g:textarea": {
+      "attrs": {
+        "attribute": null,
+        "body": null,
+        "context": null,
+        "parent": null,
+        "ref": null,
+        "trim": null,
+        "variable": null
+      }
+    },
+    "g:tokenize": {
+      "attrs": {
+        "body": null,
+        "context": null,
+        "delim": null,
+        "parent": null,
+        "trim": null,
+        "var": null
+      }
+    },
+    "g:update_table_options": {
+      "attrs": {
+        "all": null,
+        "body": null,
+        "canRead": null,
+        "choiceList": null,
+        "choiceValue": null,
+        "context": null,
+        "currentTableName": null,
+        "fieldName": null,
+        "includeDefault": null,
+        "isReference": null,
+        "isReport": null,
+        "none": null,
+        "noSystemTables": null,
+        "noViews": null,
+        "parent": null,
+        "readonly": null,
+        "ref": null,
+        "selected": null,
+        "selectedField": null,
+        "selectedOnly": null,
+        "shortList": null,
+        "showTableNames": null,
+        "skipScopeRestrictions": null,
+        "trim": null,
+        "variable": null
+      }
+    },
+    "g:vsplit": {
+      "attrs": {
+        "body": null,
+        "context": null,
+        "parent": null,
+        "ref": null,
+        "trim": null,
+        "variable": null
+      }
+    },
+    "g:vsplitter": {
+      "attrs": {
+        "body": null,
+        "context": null,
+        "parent": null,
+        "ref": null,
+        "trim": null,
+        "variable": null
+      }
+    },
+    "g:with": {
+      "attrs": {
+        "body": null,
+        "context": null,
+        "noQuery": null,
+        "parent": null,
+        "ref": null,
+        "trim": null,
+        "variable": null
+      }
+    },
+    "g:wizard": {
+      "attrs": {
+        "action": null,
+        "body": null,
+        "context": null,
+        "intercepts": null,
+        "parent": null,
+        "question": null,
+        "ref": null,
+        "refurl": null,
+        "trim": null,
+        "variable": null
+      }
+    },
+    "g:wizard_choice_list": {
+      "attrs": {
+        "answer": null,
+        "body": null,
+        "context": null,
+        "parent": null,
+        "ref": null,
+        "trim": null,
+        "variable": null
+      }
+    },
+    "g2:action_filter": {
+      "attrs": {
+        "action": null,
+        "body": null,
+        "conditional": null,
+        "context": null,
+        "current": null,
+        "parent": null,
+        "ref": null,
+        "trim": null,
+        "variable": null
+      }
+    },
+    "g2:activity": {
+      "attrs": {
+        "fields": null,
+        "records": null,
+        "sys_id": null,
+        "table": null,
+        "type": null,
+        "var": null
+      }
+    },
+    "g2:app_resources": {
+      "attrs": {
+        "body": null,
+        "context": null,
+        "file": null,
+        "output": null,
+        "parent": null,
+        "ref": null,
+        "trim": null,
+        "variable": null
+      }
+    },
+    "g2:attachment_list": {
+      "attrs": {
+        "body": null,
+        "context": null,
+        "file": null,
+        "parent": null,
+        "sys_id": null,
+        "table": null,
+        "trim": null,
+        "var": null
+      }
+    },
+    "g2:breakpoint": {
+      "attrs": {
+        "body": null,
+        "context": null,
+        "dump": null,
+        "id": null,
+        "message": null,
+        "parent": null,
+        "ref": null,
+        "trim": null,
+        "var": null,
+        "variable": null
+      }
+    },
+    "g2:calendar": {
+      "attrs": {
+        "body": null,
+        "context": null,
+        "day": null,
+        "month": null,
+        "parent": null,
+        "ref": null,
+        "trim": null,
+        "variable": null,
+        "variables": null,
+        "view": null,
+        "year": null
+      }
+    },
+    "g2:calendar_event_id": {
+      "attrs": {
+        "body": null,
+        "context": null,
+        "event": null,
+        "parent": null,
+        "ref": null,
+        "trim": null,
+        "variable": null
+      }
+    },
+    "g2:call": {
+      "attrs": {
+        "arguments": null,
+        "attribute": null,
+        "body": null,
+        "context": null,
+        "function": null,
+        "jVAR": null,
+        "parent": null,
+        "ref": null,
+        "trim": null,
+        "variable": null
+      }
+    },
+    "g2:child_tables": {
+      "attrs": {
+        "body": null,
+        "choiceList": null,
+        "choiceType": null,
+        "choiceValue": null,
+        "context": null,
+        "currentTableName": null,
+        "fieldName": null,
+        "includeDefault": null,
+        "none": null,
+        "noSystemTables": null,
+        "parent": null,
+        "readonly": null,
+        "ref": null,
+        "root": null,
+        "selected": null,
+        "shortList": null,
+        "skipRoot": null,
+        "skipTables": null,
+        "trim": null,
+        "variable": null
+      }
+    },
+    "g2:choice_list": {
+      "attrs": {
+        "body": null,
+        "column": null,
+        "context": null,
+        "maxRefDropdown": null,
+        "parent": null,
+        "ref": null,
+        "reference": null,
+        "table": null,
+        "trim": null,
+        "value": null,
+        "variable": null
+      }
+    },
+    "g2:client_script": {
+      "attrs": {
+        "body": null,
+        "catalogItem": null,
+        "context": null,
+        "file": null,
+        "parent": null,
+        "ref": null,
+        "suppressSubmitEvent": null,
+        "tableName": null,
+        "trim": null,
+        "type": null,
+        "uIType": null,
+        "variable": null,
+        "viewName": null
+      }
+    },
+    "g2:columnoptions": {
+      "attrs": {
+        "body": null,
+        "choiceList": null,
+        "choiceValue": null,
+        "context": null,
+        "fields": null,
+        "none": null,
+        "parent": null,
+        "readonly": null,
+        "ref": null,
+        "selected": null,
+        "trim": null,
+        "variable": null
+      }
+    },
+    "g2:comment": {
+      "attrs": {
+        "body": null,
+        "context": null,
+        "parent": null,
+        "ref": null,
+        "text": null,
+        "trim": null,
+        "variable": null
+      }
+    },
+    "g2:copy_to_p2": {
+      "attrs": {
+        "body": null,
+        "context": null,
+        "parent": null,
+        "ref": null,
+        "trim": null,
+        "var": null,
+        "variable": null
+      }
+    },
+    "g2:currency_format": {
+      "attrs": {
+        "body": null,
+        "context": null,
+        "double": null,
+        "parent": null,
+        "ref": null,
+        "trim": null,
+        "value": null,
+        "variable": null
+      }
+    },
+    "g2:dashboard": {
+      "attrs": {
+        "board": null,
+        "body": null,
+        "context": null,
+        "parent": null,
+        "ref": null,
+        "trim": null,
+        "variable": null
+      }
+    },
+    "g2:decorations": {
+      "attrs": {
+        "body": null,
+        "context": null,
+        "parent": null,
+        "ref": null,
+        "trim": null,
+        "var": null,
+        "variable": null
+      }
+    },
+    "g2:deferred_script": {
+      "attrs": {
+        "body": null,
+        "context": null,
+        "enable": null,
+        "output": null,
+        "parent": null,
+        "ref": null,
+        "trim": null,
+        "variable": null
+      }
+    },
+    "g2:deferred_style": {
+      "attrs": {
+        "body": null,
+        "context": null,
+        "enable": null,
+        "output": null,
+        "parent": null,
+        "ref": null,
+        "trim": null,
+        "variable": null
+      }
+    },
+    "g2:doctype": {
+      "attrs": {
+        "body": null,
+        "context": null,
+        "name": null,
+        "parent": null,
+        "publicId": null,
+        "ref": null,
+        "systemId": null,
+        "trim": null,
+        "variable": null
+      }
+    },
+    "g2:element": {
+      "attrs": {
+        "body": null,
+        "context": null,
+        "hide_label": null,
+        "parent": null,
+        "ref": null,
+        "trim": null,
+        "variable": null
+      }
+    },
+    "g2:element_list": {
+      "attrs": {
+        "body": null,
+        "context": null,
+        "parent": null,
+        "ref": null,
+        "section_id": null,
+        "table": null,
+        "trim": null,
+        "variable": null
+      }
+    },
+    "g2:emitParms": {
+      "attrs": {
+        "body": null,
+        "context": null,
+        "parent": null,
+        "ref": null,
+        "suppress": null,
+        "trim": null,
+        "variable": null
+      }
+    },
+    "g2:evaluate": {
+      "attrs": {
+        "body": null,
+        "context": null,
+        "copyToPhase2": null,
+        "copyToRhino": null,
+        "expression": null,
+        "expressionScope": null,
+        "jelly": null,
+        "locals": null,
+        "object": null,
+        "parent": null,
+        "ref": null,
+        "trim": null,
+        "var": null,
+        "variable": null
+      }
+    },
+    "g2:file_browse": {
+      "attrs": {
+        "body": null,
+        "context": null,
+        "directory": null,
+        "exts": null,
+        "ignore": null,
+        "noext": null,
+        "parent": null,
+        "ref": null,
+        "trim": null,
+        "variable": null
+      }
+    },
+    "g2:fileinfo": {
+      "attrs": {
+        "body": null,
+        "context": null,
+        "filename": null,
+        "linenumber": null,
+        "parent": null,
+        "ref": null,
+        "trim": null,
+        "variable": null
+      }
+    },
+    "g2:filter_groups": {
+      "attrs": {
+        "body": null,
+        "choiceList": null,
+        "choiceValue": null,
+        "context": null,
+        "none": null,
+        "parent": null,
+        "readonly": null,
+        "ref": null,
+        "selected": null,
+        "trim": null,
+        "variable": null
+      }
+    },
+    "g2:for_each_record": {
+      "attrs": {
+        "body": null,
+        "context": null,
+        "file": null,
+        "file_variable": null,
+        "max": null,
+        "parent": null,
+        "trim": null,
+        "var": null
+      }
+    },
+    "g2:form": {
+      "attrs": {
+        "body": null,
+        "context": null,
+        "mode": null,
+        "parent": null,
+        "ref": null,
+        "template": null,
+        "trim": null,
+        "variable": null
+      }
+    },
+    "g2:form_label": {
+      "attrs": {
+        "body": null,
+        "class": null,
+        "context": null,
+        "for": null,
+        "onclick": null,
+        "parent": null,
+        "ref": null,
+        "trim": null,
+        "variable": null
+      }
+    },
+    "g2:function": {
+      "attrs": {
+        "attribute": null,
+        "body": null,
+        "context": null,
+        "jVAR": null,
+        "parent": null,
+        "ref": null,
+        "trim": null,
+        "variable": null
+      }
+    },
+    "g2:gauge": {
+      "attrs": {
+        "body": null,
+        "context": null,
+        "filters": null,
+        "height": null,
+        "id": null,
+        "parent": null,
+        "ref": null,
+        "trim": null,
+        "type": null,
+        "variable": null,
+        "width": null
+      }
+    },
+    "g2:get_action_list": {
+      "attrs": {
+        "body": null,
+        "context": null,
+        "dependent": null,
+        "ensure": null,
+        "parent": null,
+        "readonly": null,
+        "record": null,
+        "ref": null,
+        "referenceoverride": null,
+        "trim": null,
+        "type": null,
+        "variable": null
+      }
+    },
+    "g2:get_canned_messages": {
+      "attrs": {
+        "body": null,
+        "context": null,
+        "parent": null,
+        "ref": null,
+        "trim": null,
+        "variable": null
+      }
+    },
+    "g2:get_collection_data": {
+      "attrs": {
+        "body": null,
+        "context": null,
+        "id": null,
+        "key": null,
+        "listEntries": null,
+        "parent": null,
+        "ref": null,
+        "related_field": null,
+        "related_table": null,
+        "trim": null,
+        "type": null,
+        "variable": null
+      }
+    },
+    "g2:get_connectors": {
+      "attrs": {
+        "body": null,
+        "connField": null,
+        "context": null,
+        "listField": null,
+        "parent": null,
+        "ref": null,
+        "trim": null,
+        "variable": null
+      }
+    },
+    "g2:get_distribution_list": {
+      "attrs": {
+        "body": null,
+        "context": null,
+        "dependent": null,
+        "ensure": null,
+        "parent": null,
+        "readonly": null,
+        "record": null,
+        "ref": null,
+        "referenceoverride": null,
+        "trim": null,
+        "type": null,
+        "variable": null
+      }
+    },
+    "g2:get_filters": {
+      "attrs": {
+        "body": null,
+        "context": null,
+        "parent": null,
+        "ref": null,
+        "tablename": null,
+        "trim": null,
+        "variable": null
+      }
+    },
+    "g2:get_groupby_list": {
+      "attrs": {
+        "body": null,
+        "context": null,
+        "parent": null,
+        "ref": null,
+        "related": null,
+        "table": null,
+        "trim": null,
+        "variable": null
+      }
+    },
+    "g2:get_list": {
+      "attrs": {
+        "body": null,
+        "context": null,
+        "form": null,
+        "parent": null,
+        "ref": null,
+        "trim": null,
+        "type": null,
+        "variable": null
+      }
+    },
+    "g2:get_roles": {
+      "attrs": {
+        "body": null,
+        "context": null,
+        "parent": null,
+        "readonly": null,
+        "record": null,
+        "ref": null,
+        "trim": null,
+        "type": null,
+        "variable": null
+      }
+    },
+    "g2:hdrftr_cell_data": {
+      "attrs": {
+        "body": null,
+        "choiceList": null,
+        "choiceValue": null,
+        "context": null,
+        "none": null,
+        "parent": null,
+        "readonly": null,
+        "ref": null,
+        "selected": null,
+        "trim": null,
+        "variable": null
+      }
+    },
+    "g2:hdrftr_layout": {
+      "attrs": {
+        "body": null,
+        "choiceList": null,
+        "choiceValue": null,
+        "context": null,
+        "none": null,
+        "parent": null,
+        "readonly": null,
+        "ref": null,
+        "selected": null,
+        "trim": null,
+        "variable": null
+      }
+    },
+    "g2:help": {
+      "attrs": {
+        "body": null,
+        "context": null,
+        "parent": null,
+        "ref": null,
+        "trim": null,
+        "variable": null
+      }
+    },
+    "g2:highlighter": {
+      "attrs": {
+        "body": null,
+        "context": null,
+        "limit": null,
+        "parent": null,
+        "ref": null,
+        "search": null,
+        "text": null,
+        "trim": null,
+        "var": null,
+        "variable": null
+      }
+    },
+    "g2:history": {
+      "attrs": {
+        "body": null,
+        "context": null,
+        "parent": null,
+        "ref": null,
+        "trim": null,
+        "variable": null
+      }
+    },
+    "g2:html_page": {
+      "attrs": {
+        "body": null,
+        "context": null,
+        "parent": null,
+        "ref": null,
+        "trim": null,
+        "variable": null
+      }
+    },
+    "g2:image_structure": {
+      "attrs": {
+        "body": null,
+        "context": null,
+        "parent": null,
+        "ref": null,
+        "trim": null,
+        "variable": null
+      }
+    },
+    "g2:import_vars": {
+      "attrs": {
+        "body": null,
+        "context": null,
+        "parent": null,
+        "ref": null,
+        "trim": null,
+        "variable": null,
+        "vars": null
+      }
+    },
+    "g2:index_options": {
+      "attrs": {
+        "body": null,
+        "choiceList": null,
+        "choiceValue": null,
+        "context": null,
+        "none": null,
+        "parent": null,
+        "readonly": null,
+        "ref": null,
+        "selected": null,
+        "tableName": null,
+        "trim": null,
+        "variable": null
+      }
+    },
+    "g2:inline": {
+      "attrs": {
+        "attribute": null,
+        "body": null,
+        "context": null,
+        "jVAR": null,
+        "parent": null,
+        "ref": null,
+        "template": null,
+        "trim": null,
+        "variable": null
+      }
+    },
+    "g2:insert": {
+      "attrs": {
+        "body": null,
+        "context": null,
+        "parent": null,
+        "ref": null,
+        "template": null,
+        "trim": null,
+        "variable": null
+      }
+    },
+    "g2:insert_form": {
+      "attrs": {
+        "body": null,
+        "context": null,
+        "name": null,
+        "parent": null,
+        "ref": null,
+        "sysparm_collection": null,
+        "sysparm_collection_connector": null,
+        "sysparm_collection_hierarchical": null,
+        "sysparm_collection_key": null,
+        "sysparm_collection_label": null,
+        "sysparm_collection_parent": null,
+        "sysparm_collection_related_field": null,
+        "sysparm_collection_related_file": null,
+        "sysparm_collection_relationship": null,
+        "sysparm_collection_type": null,
+        "sysparm_collectionID": null,
+        "trim": null,
+        "variable": null
+      }
+    },
+    "g2:internal_type_options": {
+      "attrs": {
+        "body": null,
+        "choiceList": null,
+        "choiceValue": null,
+        "context": null,
+        "includeContainerTypes": null,
+        "none": null,
+        "parent": null,
+        "readonly": null,
+        "ref": null,
+        "selected": null,
+        "trim": null,
+        "variable": null
+      }
+    },
+    "g2:item_link": {
+      "attrs": {
+        "body": null,
+        "context": null,
+        "parent": null,
+        "ref": null,
+        "show_link": null,
+        "trim": null,
+        "variable": null
+      }
+    },
+    "g2:list_control": {
+      "attrs": {
+        "body": null,
+        "context": null,
+        "parent": null,
+        "ref": null,
+        "trim": null,
+        "variable": null
+      }
+    },
+    "g2:list_item_style": {
+      "attrs": {
+        "alt_var": null,
+        "background_var": null,
+        "body": null,
+        "cell_var": null,
+        "context": null,
+        "item": null,
+        "parent": null,
+        "ref": null,
+        "style": null,
+        "trim": null,
+        "variable": null
+      }
+    },
+    "g2:list_item_text": {
+      "attrs": {
+        "alt_length": null,
+        "alt_text_var": null,
+        "body": null,
+        "context": null,
+        "item": null,
+        "item_parent": null,
+        "list_chars": null,
+        "parent": null,
+        "ref": null,
+        "target_text_var": null,
+        "trim": null,
+        "variable": null
+      }
+    },
+    "g2:menu_lists": {
+      "attrs": {
+        "body": null,
+        "context": null,
+        "device_type": null,
+        "omit_perspectives": null,
+        "parent": null,
+        "ref": null,
+        "trim": null,
+        "variable": null
+      }
+    },
+    "g2:messages": {
+      "attrs": {
+        "body": null,
+        "context": null,
+        "emit": null,
+        "parent": null,
+        "ref": null,
+        "scriptTag": null,
+        "trim": null,
+        "variable": null
+      }
+    },
+    "g2:my_groups": {
+      "attrs": {
+        "body": null,
+        "choiceList": null,
+        "choiceValue": null,
+        "context": null,
+        "none": null,
+        "parent": null,
+        "readonly": null,
+        "ref": null,
+        "selected": null,
+        "trim": null,
+        "variable": null
+      }
+    },
+    "g2:no_escape": {
+      "attrs": {
+        "body": null,
+        "context": null,
+        "parent": null,
+        "ref": null,
+        "trim": null,
+        "variable": null
+      }
+    },
+    "g2:noop": {
+      "attrs": {
+        "attribute": null,
+        "body": null,
+        "context": null,
+        "parent": null,
+        "ref": null,
+        "script": null,
+        "trim": null,
+        "variable": null
+      }
+    },
+    "g2:options": {
+      "attrs": {
+        "body": null,
+        "choiceList": null,
+        "choiceValue": null,
+        "context": null,
+        "none": null,
+        "parent": null,
+        "readonly": null,
+        "ref": null,
+        "selected": null,
+        "trim": null,
+        "variable": null
+      }
+    },
+    "g2:partial_page": {
+      "attrs": {
+        "body": null,
+        "context": null,
+        "name": null,
+        "optimize": null,
+        "parent": null,
+        "ref": null,
+        "style": null,
+        "trim": null,
+        "variable": null
+      }
+    },
+    "g2:preference": {
+      "attrs": {
+        "body": null,
+        "context": null,
+        "default": null,
+        "name": null,
+        "parent": null,
+        "ref": null,
+        "trim": null,
+        "var": null,
+        "variable": null
+      }
+    },
+    "g2:ref_element": {
+      "attrs": {
+        "body": null,
+        "context": null,
+        "name": null,
+        "parent": null,
+        "query": null,
+        "ref": null,
+        "trim": null,
+        "var": null,
+        "variable": null
+      }
+    },
+    "g2:reference_options": {
+      "attrs": {
+        "all": null,
+        "body": null,
+        "choiceList": null,
+        "choiceValue": null,
+        "context": null,
+        "none": null,
+        "parent": null,
+        "readonly": null,
+        "ref": null,
+        "selected": null,
+        "table": null,
+        "trim": null,
+        "variable": null
+      }
+    },
+    "g2:reminder_field_name_options": {
+      "attrs": {
+        "body": null,
+        "choiceList": null,
+        "choiceValue": null,
+        "context": null,
+        "none": null,
+        "onlyDates": null,
+        "parent": null,
+        "readonly": null,
+        "ref": null,
+        "selected": null,
+        "tableName": null,
+        "trim": null,
+        "variable": null
+      }
+    },
+    "g2:remote_import": {
+      "attrs": {
+        "body": null,
+        "context": null,
+        "parent": null,
+        "trim": null,
+        "url": null
+      }
+    },
+    "g2:render_component": {
+      "attrs": {
+        "body": null,
+        "componentName": null,
+        "context": null,
+        "parent": null,
+        "ref": null,
+        "trim": null,
+        "variable": null
+      }
+    },
+    "g2:reportmessage": {
+      "attrs": {
+        "body": null,
+        "context": null,
+        "field": null,
+        "parent": null,
+        "ref": null,
+        "trim": null,
+        "variable": null
+      }
+    },
+    "g2:requires": {
+      "attrs": {
+        "body": null,
+        "context": null,
+        "includes": null,
+        "inline": null,
+        "name": null,
+        "output": null,
+        "params": null,
+        "parent": null,
+        "position": null,
+        "ref": null,
+        "trim": null,
+        "variable": null
+      }
+    },
+    "g2:response_options": {
+      "attrs": {
+        "body": null,
+        "choiceList": null,
+        "choiceValue": null,
+        "context": null,
+        "field": null,
+        "none": null,
+        "parent": null,
+        "readonly": null,
+        "ref": null,
+        "selected": null,
+        "table": null,
+        "trim": null,
+        "variable": null
+      }
+    },
+    "g2:scope": {
+      "attrs": {
+        "body": null,
+        "context": null,
+        "parent": null,
+        "ref": null,
+        "scope": null,
+        "scriptname": null,
+        "trim": null,
+        "variable": null
+      }
+    },
+    "g2:scripted_options": {
+      "attrs": {
+        "body": null,
+        "choiceList": null,
+        "choiceValue": null,
+        "context": null,
+        "function": null,
+        "none": null,
+        "parent": null,
+        "readonly": null,
+        "ref": null,
+        "script": null,
+        "selected": null,
+        "trim": null,
+        "variable": null
+      }
+    },
+    "g2:scripted_table_options": {
+      "attrs": {
+        "body": null,
+        "choiceList": null,
+        "choiceValue": null,
+        "context": null,
+        "fieldScope": null,
+        "none": null,
+        "parent": null,
+        "readonly": null,
+        "ref": null,
+        "script": null,
+        "selected": null,
+        "showTableNames": null,
+        "showTableNamesOnLabel": null,
+        "trim": null,
+        "variable": null
+      }
+    },
+    "g2:search_table_options": {
+      "attrs": {
+        "all": null,
+        "body": null,
+        "canRead": null,
+        "choiceList": null,
+        "choiceValue": null,
+        "context": null,
+        "currentTableName": null,
+        "fieldName": null,
+        "includeDefault": null,
+        "isReference": null,
+        "isReport": null,
+        "none": null,
+        "noSystemTables": null,
+        "noViews": null,
+        "parent": null,
+        "readonly": null,
+        "ref": null,
+        "selected": null,
+        "selectedField": null,
+        "selectedOnly": null,
+        "shortList": null,
+        "showTableNames": null,
+        "skipScopeRestrictions": null,
+        "trim": null,
+        "variable": null
+      }
+    },
+    "g2:section": {
+      "attrs": {
+        "body": null,
+        "content": null,
+        "context": null,
+        "parent": null,
+        "ref": null,
+        "title": null,
+        "trim": null,
+        "variable": null
+      }
+    },
+    "g2:section_list": {
+      "attrs": {
+        "body": null,
+        "context": null,
+        "firstSectionOnly": null,
+        "headerOnly": null,
+        "headerSimple": null,
+        "headerSpacer": null,
+        "modelId": null,
+        "parent": null,
+        "ref": null,
+        "trim": null,
+        "variable": null,
+        "varRef": null
+      }
+    },
+    "g2:session_notifications": {
+      "attrs": {
+        "body": null,
+        "context": null,
+        "parent": null,
+        "ref": null,
+        "trim": null,
+        "variable": null
+      }
+    },
+    "g2:set_if": {
+      "attrs": {
+        "body": null,
+        "context": null,
+        "false": null,
+        "parent": null,
+        "ref": null,
+        "test": null,
+        "trim": null,
+        "true": null,
+        "var": null,
+        "variable": null
+      }
+    },
+    "g2:setjs": {
+      "attrs": {
+        "body": null,
+        "context": null,
+        "expression": null,
+        "parent": null,
+        "ref": null,
+        "trim": null,
+        "value": null,
+        "var": null,
+        "variable": null
+      }
+    },
+    "g2:sysevent_name_options": {
+      "attrs": {
+        "body": null,
+        "choiceList": null,
+        "choiceValue": null,
+        "context": null,
+        "none": null,
+        "parent": null,
+        "readonly": null,
+        "ref": null,
+        "selected": null,
+        "trim": null,
+        "variable": null
+      }
+    },
+    "g2:system_properties": {
+      "attrs": {
+        "body": null,
+        "context": null,
+        "exclude": null,
+        "include": null,
+        "parent": null,
+        "ref": null,
+        "template": null,
+        "trim": null,
+        "variable": null
+      }
+    },
+    "g2:system_properties_categorized": {
+      "attrs": {
+        "body": null,
+        "category": null,
+        "colspan": null,
+        "context": null,
+        "parent": null,
+        "ref": null,
+        "template": null,
+        "trim": null,
+        "variable": null
+      }
+    },
+    "g2:table_options": {
+      "attrs": {
+        "all": null,
+        "body": null,
+        "canRead": null,
+        "choiceList": null,
+        "choiceValue": null,
+        "context": null,
+        "currentTableName": null,
+        "fieldName": null,
+        "includeDefault": null,
+        "isReference": null,
+        "isReport": null,
+        "none": null,
+        "noSystemTables": null,
+        "noViews": null,
+        "parent": null,
+        "readonly": null,
+        "ref": null,
+        "selected": null,
+        "selectedField": null,
+        "selectedOnly": null,
+        "shortList": null,
+        "showTableNames": null,
+        "skipScopeRestrictions": null,
+        "trim": null,
+        "variable": null
+      }
+    },
+    "g2:textarea": {
+      "attrs": {
+        "attribute": null,
+        "body": null,
+        "context": null,
+        "parent": null,
+        "ref": null,
+        "trim": null,
+        "variable": null
+      }
+    },
+    "g2:tokenize": {
+      "attrs": {
+        "body": null,
+        "context": null,
+        "delim": null,
+        "parent": null,
+        "trim": null,
+        "var": null
+      }
+    },
+    "g2:update_table_options": {
+      "attrs": {
+        "all": null,
+        "body": null,
+        "canRead": null,
+        "choiceList": null,
+        "choiceValue": null,
+        "context": null,
+        "currentTableName": null,
+        "fieldName": null,
+        "includeDefault": null,
+        "isReference": null,
+        "isReport": null,
+        "none": null,
+        "noSystemTables": null,
+        "noViews": null,
+        "parent": null,
+        "readonly": null,
+        "ref": null,
+        "selected": null,
+        "selectedField": null,
+        "selectedOnly": null,
+        "shortList": null,
+        "showTableNames": null,
+        "skipScopeRestrictions": null,
+        "trim": null,
+        "variable": null
+      }
+    },
+    "g2:vsplit": {
+      "attrs": {
+        "body": null,
+        "context": null,
+        "parent": null,
+        "ref": null,
+        "trim": null,
+        "variable": null
+      }
+    },
+    "g2:vsplitter": {
+      "attrs": {
+        "body": null,
+        "context": null,
+        "parent": null,
+        "ref": null,
+        "trim": null,
+        "variable": null
+      }
+    },
+    "g2:with": {
+      "attrs": {
+        "body": null,
+        "context": null,
+        "noQuery": null,
+        "parent": null,
+        "ref": null,
+        "trim": null,
+        "variable": null
+      }
+    },
+    "g2:wizard": {
+      "attrs": {
+        "action": null,
+        "body": null,
+        "context": null,
+        "intercepts": null,
+        "parent": null,
+        "question": null,
+        "ref": null,
+        "refurl": null,
+        "trim": null,
+        "variable": null
+      }
+    },
+    "g2:wizard_choice_list": {
+      "attrs": {
+        "answer": null,
+        "body": null,
+        "context": null,
+        "parent": null,
+        "ref": null,
+        "trim": null,
+        "variable": null
+      }
+    },
+    "j:arg": {
+      "attrs": {
+        "classLoader": null,
+        "escapeText": null,
+        "trim": null,
+        "type": null,
+        "useContextClassLoader": null,
+        "value": null
+      }
+    },
+    "j:break": {
+      "attrs": {
+        "escapeText": null,
+        "test": null,
+        "trim": null,
+        "var": null
+      }
+    },
+    "j:case": {
+      "attrs": {
+        "escapeText": null,
+        "fallThru": null,
+        "trim": null,
+        "value": null
+      }
+    },
+    "j:catch": {
+      "attrs": {
+        "escapeText": null,
+        "trim": null,
+        "var": null
+      }
+    },
+    "j:choose": {
+      "attrs": {
+        "escapeText": null,
+        "trim": null
+      }
+    },
+    "j:default": {
+      "attrs": {
+        "escapeText": null,
+        "fallThru": null,
+        "trim": null
+      }
+    },
+    "j:expr": {
+      "attrs": {
+        "escapeText": null,
+        "trim": null,
+        "value": null
+      }
+    },
+    "j:file": {
+      "attrs": {
+        "append": null,
+        "encoding": null,
+        "escapeText": null,
+        "name": null,
+        "omitXmlDeclaration": null,
+        "outputMode": null,
+        "prettyPrint": null,
+        "trim": null,
+        "var": null
+      }
+    },
+    "j:forEach": {
+      "attrs": {
+        "begin": null,
+        "end": null,
+        "escapeText": null,
+        "indexVar": null,
+        "items": null,
+        "step": null,
+        "trim": null,
+        "var": null,
+        "varStatus": null
+      }
+    },
+    "j:getStatic": {
+      "attrs": {
+        "className": null,
+        "escapeText": null,
+        "field": null,
+        "trim": null,
+        "var": null
+      }
+    },
+    "j:if": {
+      "attrs": {
+        "escapeText": null,
+        "test": null,
+        "trim": null
+      }
+    },
+    "j:import": {
+      "attrs": {
+        "escapeText": null,
+        "file": null,
+        "inherit": null,
+        "trim": null,
+        "uri": null
+      }
+    },
+    "j:include": {
+      "attrs": {
+        "escapeText": null,
+        "export": null,
+        "file": null,
+        "inherit": null,
+        "trim": null,
+        "uri": null
+      }
+    },
+    "j:invoke": {
+      "attrs": {
+        "escapeText": null,
+        "exceptionVar": null,
+        "method": null,
+        "on": null,
+        "trim": null,
+        "var": null
+      }
+    },
+    "j:invokeStatic": {
+      "attrs": {
+        "className": null,
+        "escapeText": null,
+        "exceptionVar": null,
+        "method": null,
+        "trim": null,
+        "var": null
+      }
+    },
+    "j:jelly": {
+      "attrs": {
+        "escapeText": null,
+        "trim": null,
+        "xmlns": null
+      }
+    },
+    "j:mute": {
+      "attrs": {
+        "escapeText": null,
+        "trim": null
+      }
+    },
+    "j:new": {
+      "attrs": {
+        "classLoader": null,
+        "className": null,
+        "escapeText": null,
+        "trim": null,
+        "useContextClassLoader": null,
+        "var": null
+      }
+    },
+    "j:otherwise": {
+      "attrs": {
+        "escapeText": null,
+        "trim": null
+      }
+    },
+    "j:parse": {
+      "attrs": {
+        "escapeText": null,
+        "jellyParser": null,
+        "text": null,
+        "trim": null,
+        "var": null,
+        "XMLReader": null
+      }
+    },
+    "j:remove": {
+      "attrs": {
+        "escapeText": null,
+        "trim": null,
+        "var": null
+      }
+    },
+    "j:scope": {
+      "attrs": {
+        "escapeText": null,
+        "trim": null
+      }
+    },
+    "j:set": {
+      "attrs": {
+        "defaultValue": null,
+        "encode": null,
+        "escapeText": null,
+        "property": null,
+        "scope": null,
+        "target": null,
+        "trim": null,
+        "value": null,
+        "var": null
+      }
+    },
+    "j:setProperties": {
+      "attrs": {
+        "escapeText": null,
+        "trim": null
+      }
+    },
+    "j:switch": {
+      "attrs": {
+        "escapeText": null,
+        "on": null,
+        "trim": null
+      }
+    },
+    "j:thread": {
+      "attrs": {
+        "escapeText": null,
+        "file": null,
+        "name": null,
+        "trim": null,
+        "xmlOutput": null
+      }
+    },
+    "j:useBean": {
+      "attrs": {
+        "escapeText": null,
+        "ignoreUnknownProperties": null,
+        "trim": null
+      }
+    },
+    "j:useList": {
+      "attrs": {
+        "escapeText": null,
+        "ignoreUnknownProperties": null,
+        "trim": null
+      }
+    },
+    "j:when": {
+      "attrs": {
+        "escapeText": null,
+        "test": null,
+        "trim": null
+      }
+    },
+    "j:while": {
+      "attrs": {
+        "escapeText": null,
+        "test": null,
+        "trim": null
+      }
+    },
+    "j:whitespace": {
+      "attrs": {
+        "escapeText": null,
+        "trim": null
+      }
+    },
+    "j2:arg": {
+      "attrs": {
+        "classLoader": null,
+        "escapeText": null,
+        "trim": null,
+        "type": null,
+        "useContextClassLoader": null,
+        "value": null
+      }
+    },
+    "j2:break": {
+      "attrs": {
+        "escapeText": null,
+        "test": null,
+        "trim": null,
+        "var": null
+      }
+    },
+    "j2:case": {
+      "attrs": {
+        "escapeText": null,
+        "fallThru": null,
+        "trim": null,
+        "value": null
+      }
+    },
+    "j2:catch": {
+      "attrs": {
+        "escapeText": null,
+        "trim": null,
+        "var": null
+      }
+    },
+    "j2:choose": {
+      "attrs": {
+        "escapeText": null,
+        "trim": null
+      }
+    },
+    "j2:default": {
+      "attrs": {
+        "escapeText": null,
+        "fallThru": null,
+        "trim": null
+      }
+    },
+    "j2:expr": {
+      "attrs": {
+        "escapeText": null,
+        "trim": null,
+        "value": null
+      }
+    },
+    "j2:file": {
+      "attrs": {
+        "append": null,
+        "encoding": null,
+        "escapeText": null,
+        "name": null,
+        "omitXmlDeclaration": null,
+        "outputMode": null,
+        "prettyPrint": null,
+        "trim": null,
+        "var": null
+      }
+    },
+    "j2:forEach": {
+      "attrs": {
+        "begin": null,
+        "end": null,
+        "escapeText": null,
+        "indexVar": null,
+        "items": null,
+        "step": null,
+        "trim": null,
+        "var": null,
+        "varStatus": null
+      }
+    },
+    "j2:getStatic": {
+      "attrs": {
+        "className": null,
+        "escapeText": null,
+        "field": null,
+        "trim": null,
+        "var": null
+      }
+    },
+    "j2:if": {
+      "attrs": {
+        "escapeText": null,
+        "test": null,
+        "trim": null
+      }
+    },
+    "j2:import": {
+      "attrs": {
+        "escapeText": null,
+        "file": null,
+        "inherit": null,
+        "trim": null,
+        "uri": null
+      }
+    },
+    "j2:include": {
+      "attrs": {
+        "escapeText": null,
+        "export": null,
+        "file": null,
+        "inherit": null,
+        "trim": null,
+        "uri": null
+      }
+    },
+    "j2:invoke": {
+      "attrs": {
+        "escapeText": null,
+        "exceptionVar": null,
+        "method": null,
+        "on": null,
+        "trim": null,
+        "var": null
+      }
+    },
+    "j2:invokeStatic": {
+      "attrs": {
+        "className": null,
+        "escapeText": null,
+        "exceptionVar": null,
+        "method": null,
+        "trim": null,
+        "var": null
+      }
+    },
+    "j2:jelly": {
+      "attrs": {
+        "escapeText": null,
+        "trim": null,
+        "xmlns": null
+      }
+    },
+    "j2:mute": {
+      "attrs": {
+        "escapeText": null,
+        "trim": null
+      }
+    },
+    "j2:new": {
+      "attrs": {
+        "classLoader": null,
+        "className": null,
+        "escapeText": null,
+        "trim": null,
+        "useContextClassLoader": null,
+        "var": null
+      }
+    },
+    "j2:otherwise": {
+      "attrs": {
+        "escapeText": null,
+        "trim": null
+      }
+    },
+    "j2:parse": {
+      "attrs": {
+        "escapeText": null,
+        "jellyParser": null,
+        "text": null,
+        "trim": null,
+        "var": null,
+        "XMLReader": null
+      }
+    },
+    "j2:remove": {
+      "attrs": {
+        "escapeText": null,
+        "trim": null,
+        "var": null
+      }
+    },
+    "j2:scope": {
+      "attrs": {
+        "escapeText": null,
+        "trim": null
+      }
+    },
+    "j2:set": {
+      "attrs": {
+        "defaultValue": null,
+        "encode": null,
+        "escapeText": null,
+        "property": null,
+        "scope": null,
+        "target": null,
+        "trim": null,
+        "value": null,
+        "var": null
+      }
+    },
+    "j2:setProperties": {
+      "attrs": {
+        "escapeText": null,
+        "trim": null
+      }
+    },
+    "j2:switch": {
+      "attrs": {
+        "escapeText": null,
+        "on": null,
+        "trim": null
+      }
+    },
+    "j2:thread": {
+      "attrs": {
+        "escapeText": null,
+        "file": null,
+        "name": null,
+        "trim": null,
+        "xmlOutput": null
+      }
+    },
+    "j2:useBean": {
+      "attrs": {
+        "escapeText": null,
+        "ignoreUnknownProperties": null,
+        "trim": null
+      }
+    },
+    "j2:useList": {
+      "attrs": {
+        "escapeText": null,
+        "ignoreUnknownProperties": null,
+        "trim": null
+      }
+    },
+    "j2:when": {
+      "attrs": {
+        "escapeText": null,
+        "test": null,
+        "trim": null
+      }
+    },
+    "j2:while": {
+      "attrs": {
+        "escapeText": null,
+        "test": null,
+        "trim": null
+      }
+    },
+    "j2:whitespace": {
+      "attrs": {
+        "escapeText": null,
+        "trim": null
+      }
+    }
+  }
+}

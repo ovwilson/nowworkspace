@@ -1,0 +1,27 @@
+{
+    "files.exclude": {
+        "*/system": true,
+        "system" : true,
+        "node_modules": true,
+        ".vscode": true,
+        "lib": true,
+        "tsconfig.json": true
+    },
+    "search.exclude": {
+        "*/system": true
+    },
+    "css.lint.emptyRules": "ignore",
+    "workbench.colorCustomizations": {
+        "statusBar.background": "#81b5a1",
+        "statusBar.foreground": "#fff",
+        "activityBar.background": "#81b5a1",
+        "activityBar.foreground": "#fff"
+    },
+    "now.instance.authentication.type": "Basic",
+    "now.instance.user.name": "admin",
+    "now.instance.host.url": "https://dev57615.service-now.com/",
+    "now.instance.OAuth.client.id": "",
+    "now.instance.user.password": "••••••••••••",
+    "now.instance.OAuth.client.secret": "",
+    "editor.defaultFormatter": "HookyQR.beautify"
+}
